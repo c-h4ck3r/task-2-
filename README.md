@@ -22,4 +22,4 @@ The Internet Protocol is the network layer communications protocol in the Intern
  1,the Application, </br>
  2,Transport, </br>
  3,Network, </br>
- 4,and Link layers  Each layer within the TCP/IP protocol suite has a specific function.
+ 4,network access
