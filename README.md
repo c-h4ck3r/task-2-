@@ -8,8 +8,13 @@
 ## TCP/IP MODEL
 
 <p> TCP/IP Reference Model is a four-layered suite of communication protocols. It was developed by the DoD (Department of Defence) in the 1960s. It is named after the two main protocols that are used in the model, namely, TCP and IP.</br>
-## TCP stands for Transmission Control Protocol and <br>
-## IP stands for Internet Protocol. </br>
+## TCP stands for Transmission Control Protocol :-
+
+The Transmission Control Protocol is one of the main protocols of the Internet protocol suite. It originated in the initial network implementation in which it complemented the Internet Protocol. Therefore, the entire suite is commonly referred to as TCP/IP.  <br>
+
+## IP stands for Internet Protocol :- 
+
+The Internet Protocol is the network layer communications protocol in the Internet protocol suite for relaying datagrams across network boundaries. Its routing function enables internetworking, and essentially establishes the Internet.</br>
 
 ## 4 The TCP/IP Protocol Stack is made up of four primary layers:
     
